@@ -1,0 +1,104 @@
+html, body, div {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+}
+
+
+.top-bar{
+    position: fixed;
+    top: 0;
+    left: 0;
+    background: rgba(55,61,73,0.975);
+    display: block;
+    width: 100%;
+
+}
+
+.left{
+    margin-left: 5%;
+    margin-right: 80px;
+    float: left;
+    display: block;
+}
+
+.right{
+    margin-top: 10px;
+    margin-right: 5%;
+    float: right;
+
+}
+
+.name{
+    margin: 10px;
+    color: #FFFFFF;
+    font-family: sans-serif;
+}
+
+.text{
+    margin-right: 30px;
+    margin-left: 30px;
+    color: rgba(55,61,73,0.975);
+    font-family: sans-serif;
+}
+
+
+
+.mainbox{
+    width: 100%;
+    padding-top: 100px;
+
+
+
+}
+
+.puzzle{
+    background: #FFFFFF;
+    background-position: center;
+    margin-left: 5%;
+    float: left;
+    width: 70%;
+
+        
+}
+
+.puzzlebox{
+    background: #e89980;
+    background-position: center;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 40px;
+
+}
+
+.intro{
+    background: #FFFFFF;
+    margin-right: 5%;
+    float: right;
+    width: 15%;
+
+}
+
+.line{
+    margin-left: 5%;
+    margin-right: 5%;
+    width:90%;
+    background-position: center;
+    display: block;
+}
+
+#reset{
+    background-color: #e89980;
+    width: 100%;
+    font-family: sans-serif;
+    color: #FFFFFF;
+    font-size: 20px;
+    border: 0px;
+}
+
+
+
+
